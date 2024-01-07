@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Some informations:
 💻 Junior Developer<br><br>🌓 French / Romanian<br><br>🍼 17 yo
 
 
@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 My GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SkayiZen&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SkayiZen&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkayiZen&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -18,7 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SkayiZen&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 For Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SkayiZen) 
 
   
