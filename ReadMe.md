@@ -1,5 +1,5 @@
 # 💫 Some informations:
-💻 Junior Developer<br><br>🌓 French / Romanian<br><br>🍼 17 yo
+💻 Junior Developer<br><br>🌓 French / Romanian<br><br>
 
 
 ## 🌐 Socials:
