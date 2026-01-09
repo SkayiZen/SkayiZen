@@ -1,25 +1,39 @@
-# 💫 Some informations:
-💻 Junior Developer<br><br>🌓 French / Romanian<br><br>
+# 🌌 SkayiZen
 
+💻 Student Developer  
+🌍 France • 🇫🇷 / 🇷🇴  
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EAcVH8bYe5) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SkayiZen&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SkayiZen&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkayiZen&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SkayiZen&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+🌐 **https://skayizen.fr**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SkayiZen&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 For Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/SkayiZen) 
+## 🛠️ Stack
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 Stats
+
+![](https://github-readme-stats.vercel.app/api?username=SkayiZen&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkayiZen&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌠 Links
+
+[![Website](https://img.shields.io/badge/skayizen.fr-6f42c1?style=for-the-badge)](https://skayizen.fr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EAcVH8bYe5)
+
+🌙
