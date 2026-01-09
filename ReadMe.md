@@ -27,6 +27,7 @@
 ## 📊 Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=SkayiZen&theme=tokyonight&hide_border=true&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SkayiZen&theme=tokyonight&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SkayiZen&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
