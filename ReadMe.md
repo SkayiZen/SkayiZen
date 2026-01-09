@@ -25,7 +25,6 @@
 ---
 
 ## 📊 Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=SkayiZen&theme=tokyonight&hide_border=true&show_icons=true&cache_seconds=21600)
 
 ![](https://streak-stats.demolab.com?user=SkayiZen&theme=tokyonight&hide_border=true&cache_seconds=21600)
